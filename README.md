@@ -1,4 +1,4 @@
-## mernProjectEcommerce - E-Commerce Clone
+## Mern Shop - E-Commerce Clone
 
 This is a MERN stack e-commerce clone application, featuring both a user-friendly frontend and a robust backend for managing products, orders, users, and more.
 
